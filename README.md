@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/learnbr/template/master/logo.png" alt="Aprenda HTML/CSS" style="max-width:100%;">
+	<img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" alt="Aprenda HTML/CSS" style="max-width:100%;">
 </p>
 
 <h1 align="center">Aprenda HTML/CSS</h1>
