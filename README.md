@@ -46,7 +46,7 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-
+[Front In Brazil](https://frontinbrazil.com.br/) | Jean Lucas de Carvalho | Português
 
 [Ir para o índice](#Índice)
 
@@ -70,6 +70,14 @@ Título | Assunto | Idioma
 
 Nome do Evento | Região Realizada
 :-- | :--
+[Front in BH](https://frontinbh.com.br/) | Belo Horizonte
+[Front in Campinas](https://frontincampinas.com.br/) | Campinas
+[Front in Floripa](http://frontinfloripa.com.br/) | Florianópolis
+[Front in Fortaleza](https://frontinfortaleza.com.br/) | Fortaleza
+[Front in Sampa](https://www.frontinsampa.com.br/) | São Paulo
+[Front in POA](https://frontin.poa.br/) | Porto Alegre
+
+
 
 
 [Ir para o índice](#Índice)
@@ -97,17 +105,13 @@ Nome do Podcast | Idioma
 [Ir para o índice](#Índice)
 
 
-
-[Ir para o índice](#Índice)
-
-
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/html-css/graphs/contributors).
 
 [![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
 --- |
-[User Name](https://github.com/oguhpereira) | 
+[Gustavo Pereira](https://github.com/oguhpereira) | 
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
