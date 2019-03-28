@@ -35,7 +35,7 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
 [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | :free:
-[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | :moneybag:
 
 [Ir para o índice](#Índice)
 
