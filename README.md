@@ -60,16 +60,16 @@ Título | Assunto | Formato | Preço | Idioma
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
-[Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
-[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | :brazil:
-[Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
-[desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | :brazil:
-[Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
-[Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
-[Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
-[Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
-[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
-[Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
+[Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | Português
+[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | Português
+[Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | Português
+[desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | Português
+[Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | Português
+[Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | Português
+[Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | Português
+[Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | Português
+[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | Português
+[Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | Inglês
 [Front In Brazil](https://frontinbrazil.com.br/) | Jean Lucas de Carvalho | Português
 
 [Ir para o índice](#Índice)
