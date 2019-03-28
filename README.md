@@ -30,7 +30,12 @@
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-
+[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | :free:
+[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | :moneybag:
+[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
+[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
+[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | :free:
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | Alura | :moneybag:
 
 [Ir para o índice](#Índice)
 
@@ -38,14 +43,32 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-
-
+[CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) | CSS | E-book | :moneybag: | :brazil:
+[CSS e HTML](https://www.casadocodigo.com.br/products/livro-html-css) | CSS/HTML | E-book | :moneybag: | :brazil:
+[SASS](https://www.casadocodigo.com.br/products/livro-sass) | SASS | E-book | :moneybag: | :brazil:
+[Web Design Responsivo](https://www.casadocodigo.com.br/products/livro-web-design-responsivo) | HTML/CSS | E-book | :moneybag: | :brazil:
+[Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) | CSS | E-book | :moneybag: | :brazil:
+[Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) | CSS | E-book | :free: | :brazil:
+[Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) | CSS | E-book | :free: | :us:
+[Dive Into HTML5](https://diveintohtml5.com.br/) | HTML5 | E-book | :free: | :brazil:
+[HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) | HTML5 | E-book | :free: | :us:
+[HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) | HTML5 | E-book | :free: | :us:
 [Ir para o índice](#Índice)
 
 ## :newspaper: Blogs
 
 Blog | Principal(is) Autor(es) | Idioma
 :-- | :-- | :--:
+[Blog do Maujor](http://www.maujor.com/blog/) | [Maurício Samy Silva](https://github.com/maujor) | :brazil:
+[Cangaceiro JavaScript](http://cangaceirojavascript.com.br/) | [Flávio Almeida](https://github.com/flaviohenriquealmeida) | :brazil:
+[Da2k](http://blog.da2k.com.br/) | [Fernando Daciuk](https://github.com/fdaciuk) | :brazil:
+[desenvolvimento para web](http://desenvolvimentoparaweb.com/) | [Tárcio Zemel](https://about.me/tarciozemel) | :brazil:
+[Felipe Fialho](http://www.felipefialho.com/blog/) | [Felipe Fialho](https://github.com/lfeh) | :brazil:
+[Nando Moreira](https://nandomoreira.me/blog/) | [Nando Moreira](https://github.com/nandomoreirame) | :brazil:
+[Tableless](http://tableless.com.br/) | [Diego Eis](https://github.com/diegoeis) | :brazil:
+[Vinicius Reis](https://medium.com/@luizvinicius73) | [Vinicius Reis](https://github.com/vinicius73) | :brazil:
+[Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | :brazil:
+[Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | :us:
 [Front In Brazil](https://frontinbrazil.com.br/) | Jean Lucas de Carvalho | Português
 
 [Ir para o índice](#Índice)
@@ -61,7 +84,7 @@ Título | Evento | Assuntos
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
-
+[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | :brazil:
 
 [Ir para o índice](#Índice)
 
@@ -79,14 +102,15 @@ Nome do Evento | Região Realizada
 
 
 
-
 [Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-
+[Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum/Github | :brazil:
+[CSS SP](https://www.meetup.com/pt-BR/CSS-SP/) | Meetup | :brazil: 
+[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | :brazil: 
 
 [Ir para o índice](#Índice)
 
