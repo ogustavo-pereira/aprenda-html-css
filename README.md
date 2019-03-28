@@ -138,5 +138,5 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
 	©
-	(your name)
+	Learn Br
 </h6>
