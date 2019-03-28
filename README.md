@@ -53,6 +53,7 @@ Título | Assunto | Formato | Preço | Idioma
 [Dive Into HTML5](https://diveintohtml5.com.br/) | HTML5 | E-book | :free: | :brazil:
 [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) | HTML5 | E-book | :free: | :us:
 [HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) | HTML5 | E-book | :free: | :us:
+
 [Ir para o índice](#Índice)
 
 ## :newspaper: Blogs
@@ -100,8 +101,6 @@ Nome do Evento | Região Realizada
 [Front in Sampa](https://www.frontinsampa.com.br/) | São Paulo
 [Front in POA](https://frontin.poa.br/) | Porto Alegre
 
-
-
 [Ir para o índice](#Índice)
 
 ## :speech_balloon: Comunidades
@@ -117,7 +116,6 @@ Nome da Comunidade | Tipo | Idioma
 ## :paperclip: Feeds
 Nome do Feed | Idioma
 :-- | :--:
-
 
 [Ir para o índice](#Índice)
 
