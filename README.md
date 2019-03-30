@@ -71,6 +71,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Willian Justen](https://willianjusten.com.br/) | [Willian Justen](https://github.com/willianjusten) | Português
 [Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | Inglês
 [Front In Brazil](https://frontinbrazil.com.br/) | Jean Lucas de Carvalho | Português
+[CSS Tricks](https://css-tricks.com/) | Chris Coyier | Inglês
 
 [Ir para o índice](#Índice)
 
