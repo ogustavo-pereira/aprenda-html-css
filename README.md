@@ -77,8 +77,13 @@ Blog | Principal(is) Autor(es) | Idioma
 
 ## :video_camera: Palestras (vídeos)
 
-Título | Evento | Assuntos
-:-- | :-- | :--
+Título | Palestrante | Evento | Assuntos
+:-- | :-- | :-- | :--
+[Acessibilidade e UX em CSS](https://www.youtube.com/watch?v=WmDLAUVLVcs) | Lucas Silva | Front In Sampa | CSS
+[CSS e UX](https://www.youtube.com/watch?v=ihKzFmKIGwI) | Raphael Fabeni | 7Masters CSS | CSS
+[CSS Tips](https://www.youtube.com/watch?v=Y7NvSAhbXlc&t=1233s) | Raphael Fabeni | CSS
+[Jogos: Indo além do simples CSS!](https://www.youtube.com/watch?v=PB_825k8dI4) | Fernanda Bernardo | CSS
+[Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI) | Raphael Fabeni | CSS
 
 
 [Ir para o índice](#Índice)
