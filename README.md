@@ -33,9 +33,11 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | YouTube | :large_orange_diamond: | CSS | :free:
 [CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | Udemy | :large_orange_diamond: | CSS | :moneybag:
 [CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
+[Curso de CSS3](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV) | YouTube | :green_heart: | :free:
 [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | Udemy | :green_heart: | CSS | :moneybag:
 [HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | Codecademy | :green_heart: | HTML/CSS | :free:
 [Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | Alura | :green_heart: | HTML/CSS/JS | :moneybag:
+[Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/) | Curso em Vídeo | HTLM 5 e Básico CSS | :green_heart: | :free:
 
 [Ir para o índice](#Índice)
 
