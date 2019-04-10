@@ -95,7 +95,8 @@ Título | Palestrante | Evento | Assuntos
 ## :computer: Screencasts
 Título | Assunto | Idioma
 :-- | :-- | :--
-[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | :brazil:
+[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | Português
+[Toggle com CSS | DNECode #2 | DEVNAESTRADA](https://www.youtube.com/watch?v=Lrj60qWN5-4) | CSS | [Montanha](https://github.com/femontanha) | Português
 
 [Ir para o índice](#Índice)
 
