@@ -97,8 +97,8 @@ Título | Palestrante | Evento | Assuntos
 Título | Assunto | Idioma
 :-- | :-- | :--
 [Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | Português
-[Toggle com CSS | DNECode #2 | DEVNAESTRADA](https://www.youtube.com/watch?v=Lrj60qWN5-4) | CSS | [Montanha](https://github.com/femontanha) | Português
-[Variáveis no CSS | DNECode #1 | DEVNAESTRADA](https://www.youtube.com/watch?v=amSQQZMBfbM) | CSS | [Montanha](https://github.com/femontanha) | Português
+[Toggle com CSS - DNECode #2 - DEVNAESTRADA](https://www.youtube.com/watch?v=Lrj60qWN5-4) | CSS | [Montanha](https://github.com/femontanha) | Português
+[Variáveis no CSS - DNECode #1 - DEVNAESTRADA](https://www.youtube.com/watch?v=amSQQZMBfbM) | CSS | [Montanha](https://github.com/femontanha) | Português
 
 [Ir para o índice](#Índice)
 
