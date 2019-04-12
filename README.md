@@ -84,7 +84,7 @@ Blog | Principal(is) Autor(es) | Idioma
 
 Título | Palestrante | Evento | Assuntos
 :-- | :-- | :-- | :--
-[Acessibilidade e UX em CSS](https://www.youtube.com/watch?v=WmDLAUVLVcs) | Lucas Silva | Front In Sampa | CSS
+[Acessibilidade e UX em CSS](https://www.youtube.com/watch?v=WmDLAUVLVcs) | [Lucas Silva](https://github.com/lucasjs) | Front In Sampa | CSS
 [CSS e UX](https://www.youtube.com/watch?v=ihKzFmKIGwI) | [Raphael Fabeni](https://github.com/raphaelfabeni) | 7Masters CSS | CSS
 [CSS Tips](https://www.youtube.com/watch?v=Y7NvSAhbXlc&t=1233s) | [Raphael Fabeni](https://github.com/raphaelfabeni) | Front In Sampa | CSS
 [Jogos: Indo além do simples CSS!](https://www.youtube.com/watch?v=PB_825k8dI4) | [Fernanda Bernardo](https://github.com/FernandaBernardo) | Front In Sampa | CSS
