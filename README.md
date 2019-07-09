@@ -77,6 +77,7 @@ Blog | Principal(is) Autor(es) | Idioma
 [Zeno Rocha](https://zenorocha.com/articles/) | [Zeno Rocha](https://github.com/zenorocha) | Inglês
 [Front In Brazil](https://frontinbrazil.com.br/) | Jean Lucas de Carvalho | Português
 [CSS Tricks](https://css-tricks.com/) | Chris Coyier | Inglês
+[Blog Alura / Front-end](https://blog.alura.com.br/category/front-end/) | Alura | Português
 
 [Ir para o índice](#Índice)
 
@@ -135,6 +136,8 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
+[CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/] | Português
+
 
 
 [Ir para o índice](#Índice)
