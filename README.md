@@ -136,7 +136,7 @@ Nome do Feed | Idioma
 ## :sound: Podcasts
 Nome do Podcast | Idioma
 :-- | :--:
-[CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/] | Português
+[CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/) | Português
 
 
 
