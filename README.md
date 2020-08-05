@@ -16,7 +16,6 @@
 	<a href="#computer-screencasts">Screencasts</a> •
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
-	<a href="#paperclip-feeds">Feeds</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
 </p>
 
@@ -127,11 +126,7 @@ Nome da Comunidade | Tipo | Idioma
 
 [Ir para o índice](#Índice)
 
-## :paperclip: Feeds
-Nome do Feed | Idioma
-:-- | :--:
 
-[Ir para o índice](#Índice)
 
 ## :sound: Podcasts
 Nome do Podcast | Idioma
@@ -139,8 +134,11 @@ Nome do Podcast | Idioma
 [CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/) | Português
 
 
-
 [Ir para o índice](#Índice)
+
+## Mais Sobre
+
+* [Javascript](https://github.com/learnbr/javascript)
 
 
 ## Team
