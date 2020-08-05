@@ -139,6 +139,7 @@ Nome do Podcast | Idioma
 ## Mais Sobre
 
 * [Javascript](https://github.com/learnbr/javascript)
+* [PHP](https://github.com/learnbr/php)
 
 
 ## Team
