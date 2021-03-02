@@ -142,13 +142,11 @@ Nome do Podcast | Idioma
 * [PHP](https://github.com/learnbr/php)
 
 
-## Team
+## Time
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/learnbr/html-css/graphs/contributors).
+Este projeto é mantido pela(s) seguinte(s) pessoa(s):
 
-[![oguhpereira](https://avatars3.githubusercontent.com/u/24482087?s=70&v=3)](https://github.com/oguhpereira) 
---- |
-[Gustavo Pereira](https://github.com/oguhpereira) | 
+* [Gustavo Pereira](https://github.com/oguhpereira)
 
 <h6 align="center">
 	<a href="./MIT.md">MIT</a>
