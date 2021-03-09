@@ -17,27 +17,24 @@
 	<a href="#eventos-ativos">Eventos ativos</a> •
 	<a href="#speech_balloon-comunidades">Comunidades</a> •
 	<a href="#sound-podcasts">Podcasts</a> •
+    <a href="#mais-sobre">Mais Sobre</a>
+
 </p>
 
 ## :mortar_board: Cursos
 
-**Legenda:**
-
-- :green_heart:: Básico
-- :large_orange_diamond:: Intermediário
-- :red_circle:: Avançado
 
 Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 :-- | :-- | :--: | :--: | :--:
-[Criando um site do zero com: HTML, CSS e JS](https://www.youtube.com/watch?v=qPYCnebQQ6U&list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM) | [YouTube](http://youtube.com) | :green_heart: | HTML/CSS | :free:
-[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | [YouTube](http://youtube.com) | :large_orange_diamond: | CSS | :free:
-[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | :large_orange_diamond: | CSS | :moneybag:
-[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | :green_heart: | CSS | :moneybag:
-[Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/) | [Curso em Vídeo](https://www.cursoemvideo.com/) | :green_heart: | HTLM 5 e Básico CSS  | :free:
-[Curso de CSS3](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV) | [YouTube](http://youtube.com) | :green_heart: | CSS3 | :free:
-[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | [Alura](https://www.alura.com.br/) | :green_heart: | HTML/CSS/JS | :moneybag:
-[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | :green_heart: | CSS | :moneybag:
-[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | [Codecademy](https://www.codecademy.com/pt-BR) | :green_heart: | HTML/CSS | :free:
+[Criando um site do zero com: HTML, CSS e JS](https://www.youtube.com/watch?v=qPYCnebQQ6U&list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM) | [YouTube](http://youtube.com) | Básico | HTML/CSS | Gratuito
+[HTML e CSS](https://www.codecademy.com/pt-BR/learn/web) | [Codecademy](https://www.codecademy.com/pt-BR) | Básico | HTML/CSS | Gratuito
+[Curso de CSS3](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV) | [YouTube](http://youtube.com) | Básico | CSS3 | Gratuito
+[Curso de HTML5](https://www.cursoemvideo.com/course/curso-de-html5/) | [Curso em Vídeo](https://www.cursoemvideo.com/) | Básico | HTLM 5 e Básico CSS  | Gratuito
+[CSS3 com Sass e Compass](https://www.youtube.com/watch?v=D9OpSGViDgA&list=PL3C05B7A66AC502CF) | [YouTube](http://youtube.com) | Intermediário | CSS | Gratuito
+[CSS Grid: o sistema definitivo de layouts](https://www.udemy.com/css-grid-layout/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | Básico | CSS | Pago
+[Desenvolvedor Front-End](https://www.alura.com.br/carreira-desenvolvedor-front-end) | [Alura](https://www.alura.com.br/) | Básico | HTML/CSS/JS | Pago
+[Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | Básico | CSS | Pago
+[CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | Intermediário | CSS | Pago
 
 
 
@@ -47,16 +44,16 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 
 Título | Assunto | Formato | Preço | Idioma
 :-- | :--: | :--: | :--: | :--:
-[CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) | CSS | E-book | :moneybag: | :brazil:
-[CSS e HTML](https://www.casadocodigo.com.br/products/livro-html-css) | CSS/HTML | E-book | :moneybag: | :brazil:
-[SASS](https://www.casadocodigo.com.br/products/livro-sass) | SASS | E-book | :moneybag: | :brazil:
-[Web Design Responsivo](https://www.casadocodigo.com.br/products/livro-web-design-responsivo) | HTML/CSS | E-book | :moneybag: | :brazil:
-[Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) | CSS | E-book | :moneybag: | :brazil:
-[Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) | CSS | E-book | :free: | :brazil:
-[Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) | CSS | E-book | :free: | :us:
-[Dive Into HTML5](https://diveintohtml5.com.br/) | HTML5 | E-book | :free: | :brazil:
-[HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) | HTML5 | E-book | :free: | :us:
-[HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) | HTML5 | E-book | :free: | :us:
+[Bootstrap 3.3.5](http://livrosdomaujor.com.br/bootstrap3/codigos.html) | CSS | E-book | Gratuito | Português
+[Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/) | CSS | E-book | Gratuito | Inglês
+[Dive Into HTML5](https://diveintohtml5.com.br/) | HTML5 | E-book | Gratuito | Português
+[HTML5 for Publishers](http://chimera.labs.oreilly.com/books/1234000000770/index.html) | HTML5 | E-book | Gratuito | Inglês
+[HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html) | HTML5 | E-book | Gratuito | Inglês
+[CSS Eficiente](https://www.casadocodigo.com.br/products/livro-css-eficiente) | CSS | E-book | Pago | Português
+[CSS e HTML](https://www.casadocodigo.com.br/products/livro-html-css) | CSS/HTML | E-book | Pago | Português
+[SASS](https://www.casadocodigo.com.br/products/livro-sass) | SASS | E-book | Pago | Português
+[Web Design Responsivo](https://www.casadocodigo.com.br/products/livro-web-design-responsivo) | HTML/CSS | E-book | Pago | Português
+[Turbine seu CSS](https://www.casadocodigo.com.br/products/livro-turbine-css) | CSS | E-book | Pago | Português
 
 [Ir para o índice](#Índice)
 
@@ -120,9 +117,9 @@ Nome do Evento | Região Realizada
 
 Nome da Comunidade | Tipo | Idioma
 :-- | :-- | :--
-[Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum/Github | :brazil:
-[CSS SP](https://www.meetup.com/pt-BR/CSS-SP/) | Meetup | :brazil: 
-[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | :brazil: 
+[Front-end Brasil](https://github.com/frontendbr/forum/issues) | Fórum/Github | Português
+[CSS SP](https://www.meetup.com/pt-BR/CSS-SP/) | Meetup | Português 
+[HTML SP](https://www.meetup.com/pt-BR/html-sp/) | Meetup | Português 
 
 [Ir para o índice](#Índice)
 
@@ -140,6 +137,7 @@ Nome do Podcast | Idioma
 
 * [Javascript](https://github.com/learnbr/javascript)
 * [PHP](https://github.com/learnbr/php)
+* [Protocolo Alterado - @obetomuniz](https://www.youtube.com/user/obetomuniz)
 
 
 ## Time
