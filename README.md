@@ -36,8 +36,6 @@ Curso | Escola/Site | Nível | Assunto | Pago/Gratuito
 [Flexbox: o guia completo](https://www.udemy.com/flexbox-guia-completo/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | Básico | CSS | Pago
 [CSS: um passo adiante](https://www.udemy.com/css-um-passo-adiante/?couponCode=APRENDA_FRONTEND) | [Udemy](https://udemy.com) | Intermediário | CSS | Pago
 
-
-
 [Ir para o índice](#Índice)
 
 ## :book: Livros
@@ -77,7 +75,7 @@ Blog | Principal(is) Autor(es) | Idioma
 
 [Ir para o índice](#Índice)
 
-## :video_camera: Palestras (vídeos)
+## :video_camera: Palestras
 
 Título | Palestrante | Evento | Assuntos
 :-- | :-- | :-- | :--
@@ -94,9 +92,9 @@ Título | Palestrante | Evento | Assuntos
 
 Título | Assunto | Idioma
 :-- | :-- | :--
-[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | [Amanda Vilela](https://github.com/amandavilela) | Português
-[Toggle com CSS - DNECode #2 - DEVNAESTRADA](https://www.youtube.com/watch?v=Lrj60qWN5-4) | CSS | [Montanha](https://github.com/femontanha) | Português
-[Variáveis no CSS - DNECode #1 - DEVNAESTRADA](https://www.youtube.com/watch?v=amSQQZMBfbM) | CSS | [Montanha](https://github.com/femontanha) | Português
+[Sass](https://www.youtube.com/playlist?list=PL77JVjKTJT2h4DPhWnTyVurZXugplVa1r) | CSS | Português
+[Toggle com CSS - DNECode #2 - DEVNAESTRADA](https://www.youtube.com/watch?v=Lrj60qWN5-4) | CSS | Português
+[Variáveis no CSS - DNECode #1 - DEVNAESTRADA](https://www.youtube.com/watch?v=amSQQZMBfbM) | CSS | Português
 
 [Ir para o índice](#Índice)
 
