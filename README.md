@@ -137,16 +137,3 @@ Nome do Podcast | Idioma
 * [Javascript](https://github.com/learnbr/javascript)
 * [PHP](https://github.com/learnbr/php)
 * [Protocolo Alterado - @obetomuniz](https://www.youtube.com/user/obetomuniz)
-
-
-## Time
-
-Este projeto é mantido pela(s) seguinte(s) pessoa(s):
-
-* [Gustavo Pereira](https://github.com/oguhpereira)
-
-<h6 align="center">
-	<a href="./MIT.md">MIT</a>
-	©
-	Learn Br
-</h6>
